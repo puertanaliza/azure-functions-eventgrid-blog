@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# Azure Functions local settings
+local.settings.json
+
+# OS
+.DS_Store
+Thumbs.db
